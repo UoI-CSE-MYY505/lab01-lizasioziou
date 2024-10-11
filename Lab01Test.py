@@ -9,7 +9,7 @@ from myy505TesterLib import *
 ################################################################
 # CHANGE THIS TO YOUR MATRIC NUMBER
 ################################################################
-matricNumber = 0
+matricNumber = 5543     # changed to my AM which is 5543
 
 # Modifications/additions to the data labels of the program
 newLabels = {
